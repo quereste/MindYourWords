@@ -1,0 +1,5 @@
+singleton - Game Manage
+strategy - Board Compositor
+builder - Board Model Builder
+iterator - Board (event handling)
+chain of responsibility - Game Manager - key pressed
